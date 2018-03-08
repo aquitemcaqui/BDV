@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## Biologia e Diversidade Vegetal
 
-You can use the [editor on GitHub](https://github.com/aquitemcaqui/BDV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Objetivos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Estudar a diversidade e as principais características biológicas dos vegetais, grupo que em sua circunscrição moderna compreende glaucófitas, algas vermelhas e algas verdes, a última incluindo também as plantas terrestres. Fornecer subsídio para o reconhecimento dos principais grupos vegetais, visando a fundamentação do conhecimento da diversidade de ecossistemas.
+
+Equipe 2017
+
+Professor
+Leonardo M. Borges
+
+Assistente de ensino
+Maristela Imatomi
+
+Monitor
 
 ### Markdown
 
