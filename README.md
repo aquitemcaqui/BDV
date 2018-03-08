@@ -1,10 +1,10 @@
-## Biologia e Diversidade Vegetal
+# Biologia e Diversidade Vegetal
 
 Objetivos
 
 Estudar a diversidade e as principais características biológicas dos vegetais, grupo que em sua circunscrição moderna compreende glaucófitas, algas vermelhas e algas verdes, a última incluindo também as plantas terrestres. Fornecer subsídio para o reconhecimento dos principais grupos vegetais, visando a fundamentação do conhecimento da diversidade de ecossistemas.
 
-Equipe 2017
+### Equipe 2017
 
 Professor
 Leonardo M. Borges
@@ -13,6 +13,7 @@ Assistente de ensino
 Maristela Imatomi
 
 Monitor
+Yago de Barros Souza
 
 ### Markdown
 
